@@ -19,7 +19,6 @@ packaging
 plumbum
 pydal
 python-telegram-bot
-pywin32
 PyYAML
 requests
 sniffio
